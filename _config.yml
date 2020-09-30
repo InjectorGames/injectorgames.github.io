@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
+title: Injector Games
+description: Application and game development based on modern technologies
+show_downloads: false
