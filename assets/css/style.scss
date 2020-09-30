@@ -4,5 +4,9 @@
 @import 'jekyll-theme-cayman';
 
 .page-header {
-  background-image: linear-gradient(120deg, #f6b9b9, #2256ff);
+  background-image: linear-gradient(120deg, #6cd4ff, #8b80f9);
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #21d19f;
 }
