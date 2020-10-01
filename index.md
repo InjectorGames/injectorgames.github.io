@@ -1,4 +1,12 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+<link rel="manifest" href="/icons/site.webmanifest">
+<link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/icons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
 
 # Injector Engine
-Open-source application and game engine. With rendering based on Vulkan and OpenGL graphics API's. Currently supports Windows, Linux and Mac OS. Will also support Android and iOS in the future. Also support OpenVR (on Windows and Linux). Contains a lot off usefful stuff, like TCP SSL/TLS sockets.
+Open-source application and game [engine](https://github.com/InjectorGames/InjectorEngine). With rendering based on [Vulkan](https://wikipedia.org/wiki/Vulkan_(API)) and [OpenGL](https://wikipedia.org/wiki/OpenGL) graphics API's. Currently supports Windows, Linux and Mac OS. Will also support Android and iOS in the future. Also support [OpenVR](https://wikipedia.org/wiki/OpenVR) (on Windows and Linux). Contains a lot off usefful stuff, like TCP SSL/TLS sockets.
