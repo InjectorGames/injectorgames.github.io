@@ -9,4 +9,7 @@
 <meta name="theme-color" content="#ffffff">
 
 # Injector Engine
-Open-source application and game [engine](https://github.com/InjectorGames/InjectorEngine). With rendering based on [Vulkan](https://wikipedia.org/wiki/Vulkan_(API)) and [OpenGL](https://wikipedia.org/wiki/OpenGL) graphics API's. Currently supports Windows, Linux and Mac OS. Will also support Android and iOS in the future. Also support [OpenVR](https://wikipedia.org/wiki/OpenVR) (on Windows and Linux). Contains a lot off usefful stuff, like TCP SSL/TLS sockets.
+An open-source application and game development [engine](https://github.com/InjectorGames/InjectorEngine). With rendering based on [Vulkan](https://wikipedia.org/wiki/Vulkan_(API)) and [OpenGL](https://wikipedia.org/wiki/OpenGL) graphics API's. Currently supports Windows, Linux and Mac OS. Will also support Android and iOS in the future. Also supports [OpenVR](https://wikipedia.org/wiki/OpenVR) (on Windows and Linux). Contains a lot of useful stuff, like TCP SSL/TLS sockets.
+
+# Starnet
+In development space adventure online game, about survival in space. The player appears on a random planet, where he can build his spaceship and travel to other planets in the universe. The universe will be synchronized between all players, maintaining a large number of connections in real time.
